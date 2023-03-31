@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:fluttertoast/fluttertoast.dart';
 import 'dummy_data.dart';
 import 'category_item.dart';
 
@@ -16,7 +16,7 @@ class CategoriesScreen extends StatelessWidget {
               ))
           .toList(),
       gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
-        maxCrossAxisExtent: 200,
+        maxCrossAxisExtent: 300,
         childAspectRatio: 3 / 2,
         crossAxisSpacing: 19,
         mainAxisSpacing: 18,

@@ -93,6 +93,7 @@ class _MyAppState extends State<MyApp> {
               fontWeight: FontWeight.bold,
             )),
       ),
+
       //home: CategoriesScreen(),
       routes: {
         '/': (ctx) => TabsScreen(_favoriteMeals),
