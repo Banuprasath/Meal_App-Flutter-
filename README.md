@@ -1,4 +1,17 @@
-# meal_app
+# Meal App
+
+Meal App is a Flutter application that helps you find recipes for different meals. You can browse meals by categories, view the ingredients and steps for each meal, and add meals to your favorites. You can also apply filters to narrow down your choices based on your preferences.
+
+Features:
+
+- Browse meals by categories such as Italian, Asian, French, etc.
+
+- View the ingredients and steps for each meal
+
+- Add meals to your favorites and access them anytime
+- Apply filters to show only gluten-free, lactose-free, vegan, or vegetarian meals
+- Responsive and adaptive layout for different screen sizes and orientations
+
 
 A new Flutter project.
 
