@@ -12,14 +12,21 @@ Features:
 - Apply filters to show only gluten-free, lactose-free, vegan, or vegetarian meals
 - Responsive and adaptive layout for different screen sizes and orientations
 
-Screenshots -[hii](https://drive.google.com/file/d/1-Edm30znqJTk4P5tl8JxfRVM9U9wF-VR/view?usp=sharing)
+# Screenshots -
+**Home Page**
+![Home](https://user-images.githubusercontent.com/92842537/232836234-970fb693-ca80-44ba-91f3-e589ba6897a6.jpg)
 
-How to run
+-Main Page
+[photo_2023-04-14_10-01-30](https://user-images.githubusercontent.com/92842537/232839297-7d92357d-a488-4eb1-9511-916e04b44cd7.jpg)
+
+
+How to run!
 [Add instructions on how to run your app here]
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
