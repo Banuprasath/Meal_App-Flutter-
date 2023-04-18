@@ -1,6 +1,7 @@
 import 'package:Meal_APP/models/main_drawer.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:flutter/services.dart';
 
 class FilterScreen extends StatefulWidget {
   static const routeName = "/filters";
@@ -52,6 +53,7 @@ class _FilterScreenState extends State<FilterScreen> {
             IconButton(
               icon: Icon(Icons.save),
               onPressed: () {
+                HapticFeedback.lightImpact();
                 final selectedFilters = {
                   'gluten': _glutenFree,
                   'lactose': _lactoseFree,
